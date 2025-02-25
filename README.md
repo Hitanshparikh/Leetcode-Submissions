@@ -7,6 +7,7 @@
 | [0952-word-subsets](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/0952-word-subsets) |
 | [1063-best-sightseeing-pair](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1063-best-sightseeing-pair) |
 | [1364-tuple-with-same-product](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1364-tuple-with-same-product) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1876-map-of-highest-peak](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1876-map-of-highest-peak) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [1063-best-sightseeing-pair](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1063-best-sightseeing-pair) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## String
 |  |
 | ------- |
@@ -29,6 +31,7 @@
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
@@ -80,4 +83,8 @@
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Math
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
