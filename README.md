@@ -13,6 +13,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2792-neighboring-bitwise-xor](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2792-neighboring-bitwise-xor) |
+| [3227-find-missing-and-repeated-values](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Dynamic Programming
@@ -43,6 +44,7 @@
 | [1160-letter-tile-possibilities](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1364-tuple-with-same-product) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3227-find-missing-and-repeated-values](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Bit Manipulation
 |  |
@@ -56,6 +58,7 @@
 |  |
 | ------- |
 | [1876-map-of-highest-peak](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1876-map-of-highest-peak) |
+| [3227-find-missing-and-repeated-values](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
@@ -92,4 +95,5 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
