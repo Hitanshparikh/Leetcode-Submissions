@@ -10,6 +10,7 @@
 | [1364-tuple-with-same-product](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1364-tuple-with-same-product) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1876-map-of-highest-peak](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1876-map-of-highest-peak) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2792-neighboring-bitwise-xor](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2792-neighboring-bitwise-xor) |
@@ -29,6 +30,7 @@
 | [1160-letter-tile-possibilities](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
@@ -43,6 +45,7 @@
 | [0952-word-subsets](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1364-tuple-with-same-product) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3227-find-missing-and-repeated-values](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -96,4 +99,12 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
+## Graph
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
