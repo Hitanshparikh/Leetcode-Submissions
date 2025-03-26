@@ -10,6 +10,7 @@
 | [1364-tuple-with-same-product](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1364-tuple-with-same-product) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1876-map-of-highest-peak](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1876-map-of-highest-peak) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [1876-map-of-highest-peak](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1876-map-of-highest-peak) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
@@ -78,6 +80,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3430-count-days-without-meetings](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
@@ -102,6 +105,7 @@
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
 ## Graph
