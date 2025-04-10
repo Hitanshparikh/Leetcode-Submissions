@@ -28,6 +28,7 @@
 | [1063-best-sightseeing-pair](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1063-best-sightseeing-pair) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Graph
 |  |
 | ------- |
