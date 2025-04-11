@@ -111,6 +111,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2649-count-total-number-of-colored-cells) |
+| [2998-count-symmetric-integers](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Graph
@@ -132,4 +133,8 @@
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
