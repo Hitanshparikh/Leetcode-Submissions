@@ -9,6 +9,7 @@
 | [1063-best-sightseeing-pair](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1063-best-sightseeing-pair) |
 | [1364-tuple-with-same-product](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1364-tuple-with-same-product) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1656-count-good-triplets](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1656-count-good-triplets) |
 | [1876-map-of-highest-peak](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1876-map-of-highest-peak) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -136,5 +137,6 @@
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
