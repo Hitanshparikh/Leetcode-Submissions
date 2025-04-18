@@ -33,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/0038-count-and-say) |
 | [0952-word-subsets](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
