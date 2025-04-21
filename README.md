@@ -13,6 +13,7 @@
 | [1876-map-of-highest-peak](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1876-map-of-highest-peak) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2249-count-the-hidden-sequences](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2249-count-the-hidden-sequences) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2792-neighboring-bitwise-xor](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2792-neighboring-bitwise-xor) |
@@ -46,6 +47,7 @@
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2249-count-the-hidden-sequences](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2249-count-the-hidden-sequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
