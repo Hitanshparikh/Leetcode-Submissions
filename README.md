@@ -56,6 +56,7 @@
 | [0952-word-subsets](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1364-tuple-with-same-product) |
+| [1500-count-largest-group](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1500-count-largest-group) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3227-find-missing-and-repeated-values](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
@@ -111,6 +112,7 @@
 ## Math
 |  |
 | ------- |
+| [1500-count-largest-group](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Hitanshparikh/Leetcode-Submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
